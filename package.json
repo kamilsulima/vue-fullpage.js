@@ -2,7 +2,7 @@
   "name": "vue-fullpage.js",
   "version": "0.0.1",
   "description": "Official Vue.js wrapper for fullPage library",
-  "main": "./src/FullPage.vue",
+  "main": "src/FullPage.vue",
   "scripts": {
     "dev": "webpack-dev-server --config=webpack.config.dev.js",
     "demo1": "webpack --config=webpack.config.js demos/demo1/src/index.js demos/demo1/dist/build.js",
